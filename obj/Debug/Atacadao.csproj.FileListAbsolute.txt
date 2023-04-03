@@ -1,0 +1,12 @@
+C:\Users\Joyce\source\repos\Atacadao\bin\Debug\Atacadao.exe.config
+C:\Users\Joyce\source\repos\Atacadao\bin\Debug\Atacadao.exe
+C:\Users\Joyce\source\repos\Atacadao\bin\Debug\Atacadao.pdb
+C:\Users\Joyce\source\repos\Atacadao\obj\Debug\Atacadao.csproj.AssemblyReference.cache
+C:\Users\Joyce\source\repos\Atacadao\obj\Debug\Atacadao.csproj.SuggestedBindingRedirects.cache
+C:\Users\Joyce\source\repos\Atacadao\obj\Debug\Atacadao.Login.resources
+C:\Users\Joyce\source\repos\Atacadao\obj\Debug\Atacadao.Properties.Resources.resources
+C:\Users\Joyce\source\repos\Atacadao\obj\Debug\Atacadao.csproj.GenerateResource.cache
+C:\Users\Joyce\source\repos\Atacadao\obj\Debug\Atacadao.csproj.CoreCompileInputs.cache
+C:\Users\Joyce\source\repos\Atacadao\obj\Debug\Atacadao.exe
+C:\Users\Joyce\source\repos\Atacadao\obj\Debug\Atacadao.pdb
+C:\Users\Joyce\source\repos\Atacadao\obj\Debug\Atacadao.frmMenu.resources
